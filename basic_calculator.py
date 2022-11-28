@@ -1,6 +1,4 @@
 
-# Asking the user about numbers and the operator they want to add.
-# And also telling them what are the operator signs
 print("Welcome to our basic calculator!\nto add: +\nto substract: -\nto multiply: *\nto divide: /")
 while (True) :
 
